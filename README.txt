@@ -5,3 +5,5 @@
 2. list compr_2.py пример работы с логами где все значения указаны в одной строке
 3. args_kwargs_ex.py как работает конструкция *args и **kwargs
 4. func_prog-g.py функцианальное программирование
+    (работа с такими методами как: sorted, map, filter, lambda, модуль reduce из functools)
+
